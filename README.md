@@ -4,9 +4,10 @@
 
 This project analyzes a Digital Music Store database to extract key business insights such as top customers, high-revenue cities, and most popular artists. The aim is to demonstrate SQL query skills for real-world business problems and support decision-making in customer segmentation and sales growth.
 
-**Tools & Skills Used**
+**Database & Tools**
 
-SQL (Joins, Subqueries, Aggregations, Window Functions)
+Postgre SQL
+PgAdmin4
 
 **Database Analysis**
 
