@@ -7,6 +7,7 @@ This project analyzes a Digital Music Store database to extract key business ins
 **Database & Tools**
 
 Postgre SQL
+
 PgAdmin4
 
 **Database Analysis**
